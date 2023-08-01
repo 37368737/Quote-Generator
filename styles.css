@@ -13,6 +13,9 @@ h1 {
 
 .quote{
     margin-bottom: 20px;
+    font-size: 25px;
+    color: aqua;
+
 }
 
 #quote-button {
@@ -26,5 +29,5 @@ h1 {
 }
 
 #quote-button:hover{
-    background-color: #0056b3;
+    background-color: #35e6e9;
 }
