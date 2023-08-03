@@ -31,3 +31,17 @@ h1 {
 #quote-button:hover{
     background-color: #35e6e9;
 }
+
+@media (max-width: 768px){
+    h1{
+        font-size: 60px;
+    }
+
+    .quote {
+        font-size: 18px;
+    }
+
+    #quote-button {
+        font-size: 12px;
+    }
+}
